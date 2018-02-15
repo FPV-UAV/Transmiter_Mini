@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Transmiter_Mini", "Transmiter_Mini.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimbleeBLE", "..\..\..\AppData\Local\arduino15\packages\Simblee\hardware\Simblee\1.1.4\libraries\SimbleeBLE\SimbleeBLE.vcxitems", "{020B08CA-AC6D-485B-B02C-96066057C583}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RFduinoBLE", "..\..\..\AppData\Local\arduino15\packages\RFduino\hardware\RFduino\2.3.3\libraries\RFduinoBLE\RFduinoBLE.vcxitems", "{A630274C-5586-448E-8553-B742B5287E2D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SPI", "..\..\..\AppData\Local\arduino15\packages\Simblee\hardware\Simblee\1.1.4\libraries\SPI\SPI.vcxitems", "{DFF7B76A-E77B-4C4B-B1DD-BDF0D13F5620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4C5CF78-E098-447D-8A78-988AB5AE2383}
+	EndGlobalSection
+EndGlobal
