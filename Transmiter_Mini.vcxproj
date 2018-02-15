@@ -78,6 +78,22 @@
     <None Include="BLE.ino">
       <FileType>CppCode</FileType>
     </None>
+    <None Include="E:\01. Mechanika\14. T-Mini\Dół.SLDPRT" />
+    <None Include="E:\01. Mechanika\14. T-Mini\Dół.STL" />
+    <None Include="E:\01. Mechanika\14. T-Mini\góra.SLDPRT" />
+    <None Include="E:\01. Mechanika\14. T-Mini\góra.STL" />
+    <None Include="E:\01. Mechanika\14. T-Mini\T1-pokrywa.SLDPRT" />
+    <None Include="E:\01. Mechanika\14. T-Mini\T1-pokrywa.STL" />
+    <None Include="E:\01. Mechanika\14. T-Mini\t1.SLDPRT" />
+    <None Include="E:\01. Mechanika\14. T-Mini\t1.STL" />
+    <None Include="E:\01. Mechanika\14. T-Mini\t1a.SLDPRT" />
+    <None Include="E:\01. Mechanika\14. T-Mini\t1a.STL" />
+    <None Include="E:\02-Elektronika\Transmiter - S\Schlib1.SchLib" />
+    <None Include="E:\02-Elektronika\Transmiter - S\Transmiter-S.PcbDoc" />
+    <None Include="E:\02-Elektronika\Transmiter - S\Transmiter-S.PDF" />
+    <None Include="E:\02-Elektronika\Transmiter - S\Transmiter-S.PrjPCB" />
+    <None Include="E:\02-Elektronika\Transmiter - S\Transmiter-S.PrjPCBStructure" />
+    <None Include="E:\02-Elektronika\Transmiter - S\Transmiter-S.SchDoc" />
     <None Include="NFC.ino">
       <FileType>CppCode</FileType>
     </None>

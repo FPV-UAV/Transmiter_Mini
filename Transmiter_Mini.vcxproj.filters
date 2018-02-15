@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Hardware">
+      <UniqueIdentifier>{3945c945-4f29-4c14-bd09-ba1bcec6b35c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hardware\Case 3D">
+      <UniqueIdentifier>{35d039db-b114-4837-bf47-4e6d07063742}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="Transmiter_Mini.ino" />
@@ -20,6 +26,54 @@
     <None Include="BLE.ino" />
     <None Include="NFC.ino" />
     <None Include="Sensor.ino" />
+    <None Include="E:\02-Elektronika\Transmiter - S\Schlib1.SchLib">
+      <Filter>Hardware</Filter>
+    </None>
+    <None Include="E:\02-Elektronika\Transmiter - S\Transmiter-S.PcbDoc">
+      <Filter>Hardware</Filter>
+    </None>
+    <None Include="E:\02-Elektronika\Transmiter - S\Transmiter-S.PDF">
+      <Filter>Hardware</Filter>
+    </None>
+    <None Include="E:\02-Elektronika\Transmiter - S\Transmiter-S.PrjPCB">
+      <Filter>Hardware</Filter>
+    </None>
+    <None Include="E:\02-Elektronika\Transmiter - S\Transmiter-S.PrjPCBStructure">
+      <Filter>Hardware</Filter>
+    </None>
+    <None Include="E:\02-Elektronika\Transmiter - S\Transmiter-S.SchDoc">
+      <Filter>Hardware</Filter>
+    </None>
+    <None Include="E:\01. Mechanika\14. T-Mini\Dół.STL">
+      <Filter>Hardware\Case 3D</Filter>
+    </None>
+    <None Include="E:\01. Mechanika\14. T-Mini\góra.STL">
+      <Filter>Hardware\Case 3D</Filter>
+    </None>
+    <None Include="E:\01. Mechanika\14. T-Mini\t1.STL">
+      <Filter>Hardware\Case 3D</Filter>
+    </None>
+    <None Include="E:\01. Mechanika\14. T-Mini\t1a.STL">
+      <Filter>Hardware\Case 3D</Filter>
+    </None>
+    <None Include="E:\01. Mechanika\14. T-Mini\T1-pokrywa.STL">
+      <Filter>Hardware\Case 3D</Filter>
+    </None>
+    <None Include="E:\01. Mechanika\14. T-Mini\Dół.SLDPRT">
+      <Filter>Hardware\Case 3D</Filter>
+    </None>
+    <None Include="E:\01. Mechanika\14. T-Mini\góra.SLDPRT">
+      <Filter>Hardware\Case 3D</Filter>
+    </None>
+    <None Include="E:\01. Mechanika\14. T-Mini\t1.SLDPRT">
+      <Filter>Hardware\Case 3D</Filter>
+    </None>
+    <None Include="E:\01. Mechanika\14. T-Mini\t1a.SLDPRT">
+      <Filter>Hardware\Case 3D</Filter>
+    </None>
+    <None Include="E:\01. Mechanika\14. T-Mini\T1-pokrywa.SLDPRT">
+      <Filter>Hardware\Case 3D</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.Transmiter_Mini.vsarduino.h">
